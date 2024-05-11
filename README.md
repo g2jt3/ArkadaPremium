@@ -5,36 +5,50 @@ Software for punching information.
 ## Cloning libraries/Installing software
 1.
 ```git clone https://github.com/g2jt3/Arkada.git```
+
 2.
 ```cd ArkadaSoft```
 
 ## Installing Libraries Windows
 1.
 ```pip install requests```
+
 2.
 ```pip install dadata```
+
 3.
 ```pip install os```
+
 4.
 ```pip install colorama```
+
 5.
 ```pip install sys```
+
 6.
 ```pip install PyQt5```
+
 7.
 ```pip install QtWebEngineWidgets``` / ```pip install QtWidgets```
+
 8.
 ```pip install hashlib```
+
 9.
 ```pip install time```
+
 10.
 ```pip install phonenumbers```
+
 11.
 ```pip install json```
+
 12.
 ```pip install bs4```
+
 13.
 ```pip install whois```
+
 14.
 ```pip install faker```
 
